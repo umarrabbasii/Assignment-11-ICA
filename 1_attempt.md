@@ -1,7 +1,7 @@
  Claims and Answerable Questions
  Claim 1
- Vague Claim: Staples like bread and milk are becoming completely unaffordable for average families."[cite: 2]
-  Answerable Question:"What was the monthly percentage change in the mean unit price of essential dairy and bakery items over the past 12 months?"
+ Vague Claim: Staples like bread and milk are becoming completely unaffordable for average families. 
+  Answerable Question: What was the monthly percentage change in the mean unit price of essential dairy and bakery items over the past 12 months?
 Required Variable(s): item category, unit price, date
 
 Claim 2
